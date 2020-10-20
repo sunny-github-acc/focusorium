@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/focusorium/static/css/main.82ac92d6.chunk.css",
+    "main.js": "/focusorium/static/js/main.aab8d217.chunk.js",
+    "main.js.map": "/focusorium/static/js/main.aab8d217.chunk.js.map",
+    "runtime-main.js": "/focusorium/static/js/runtime-main.8ee7b1bf.js",
+    "runtime-main.js.map": "/focusorium/static/js/runtime-main.8ee7b1bf.js.map",
+    "static/js/2.61545c6f.chunk.js": "/focusorium/static/js/2.61545c6f.chunk.js",
+    "static/js/2.61545c6f.chunk.js.map": "/focusorium/static/js/2.61545c6f.chunk.js.map",
+    "index.html": "/focusorium/index.html",
+    "precache-manifest.e109201abcbf93bffd7cdb84320e6153.js": "/focusorium/precache-manifest.e109201abcbf93bffd7cdb84320e6153.js",
+    "service-worker.js": "/focusorium/service-worker.js",
+    "static/css/main.82ac92d6.chunk.css.map": "/focusorium/static/css/main.82ac92d6.chunk.css.map",
+    "static/js/2.61545c6f.chunk.js.LICENSE.txt": "/focusorium/static/js/2.61545c6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ee7b1bf.js",
+    "static/js/2.61545c6f.chunk.js",
+    "static/css/main.82ac92d6.chunk.css",
+    "static/js/main.aab8d217.chunk.js"
+  ]
+}
